@@ -2,5 +2,8 @@ package by.javatr.task_6;
 
 public class NewClass {
 
-    sout
+    public void m() {
+        System.out.println("Hello World");
+    }
+
 }
