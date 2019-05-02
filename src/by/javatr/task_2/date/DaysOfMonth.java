@@ -10,11 +10,12 @@ public class DaysOfMonth {
     private static final int LEAP_YEAR = 0;
     private static final int LEAP_YEAR_ONCE_IN = 4;
 
+
     private DaysOfMonth() {
     }
 
     public static int calculationOfDays(int year, int month) throws MonthException {
-        if(month < FIRST_MONTH || month > LAST_MONTH) {
+        if(month < FIRST_MONTH || month > LAST_MONTH || year < 0) {
             throw new MonthException("Month isn't true");
         }
 
