@@ -13,46 +13,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_3/square/Quadrate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,14 +30,21 @@
         <option value="$PROJECT_DIR$/src/by/javatr/task_2/scanner/ReadingOfValue.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_2/date/EnterDate.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_3/square/Square.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/runner/Run.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_3/exception/SquareException.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_3/square/Quadrate.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/scanner/ReadingValue.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_4/validator/Validator.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_5/StringValidator.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_2/date/DaysOfMonth.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/runner/Run.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/second_day/runner/Run.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/second_day/runner/SecondDay.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="38" />
     <option name="width" value="1400" />
@@ -82,6 +55,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,28 +84,19 @@
             </path>
             <path>
               <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrainingBy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="scanner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLib/testng-6.8.5.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testng-6.8.5.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -146,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Application.SecondDay">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="by.javatr.Main" />
       <module name="TrainingBy" />
@@ -170,12 +136,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.second_day.runner.SecondDay" />
+      <module name="TrainingBy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.second_day.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.SecondDay" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondDay" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Main" />
       </list>
@@ -192,17 +173,24 @@
       <option name="presentableId" value="Default" />
       <updated>1556716475720</updated>
       <workItem from="1556716479530" duration="827000" />
-      <workItem from="1556728046525" duration="9429000" />
+      <workItem from="1556728046525" duration="8299000" />
+      <workItem from="1556739172376" duration="388000" />
+      <workItem from="1556799247732" duration="18000" />
+      <workItem from="1556803425961" duration="1955000" />
+      <workItem from="1556806784553" duration="584000" />
+      <workItem from="1556808441081" duration="3013000" />
+      <workItem from="1556813727650" duration="147000" />
+      <workItem from="1556816882518" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10256000" />
+    <option name="totallyTimeSpent" value="15409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28441754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -211,8 +199,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32950193" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39974457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,51 +244,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="139" column="35" selection-start-line="139" selection-start-column="35" selection-end-line="139" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="184" column="24" selection-start-line="184" selection-start-column="24" selection-end-line="184" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_2/date/DaysOfMonth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/util/Date.java" />
+    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_3/exception/SquareException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -321,10 +266,61 @@
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_3/square/Quadrate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/Validator.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/StringValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/scanner/ReadingValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/Pavel/Programs/jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_2/date/DaysOfMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/second_day/runner/SecondDay.java" />
   </component>
   <component name="masterDetails">
     <states>
