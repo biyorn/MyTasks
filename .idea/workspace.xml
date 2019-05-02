@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="38" />
     <option name="width" value="1400" />
@@ -57,41 +58,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrainingBy" type="462c0819:PsiDirectoryNode" />
+              <item name="myGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrainingBy" type="462c0819:PsiDirectoryNode" />
+              <item name="myGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrainingBy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrainingBy" type="462c0819:PsiDirectoryNode" />
+              <item name="myGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TrainingBy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,15 +174,15 @@
       <workItem from="1556808441081" duration="3013000" />
       <workItem from="1556813727650" duration="147000" />
       <workItem from="1556816882518" duration="178000" />
-      <workItem from="1556825546558" duration="218000" />
+      <workItem from="1556825546558" duration="502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15409000" />
+    <option name="totallyTimeSpent" value="15696000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24871466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -290,13 +280,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Programs/jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Programs/jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
