@@ -1,8 +1,8 @@
 package by.javatr.runner;
 
 import by.javatr.scanner.ReadingValue;
-import by.javatr.task_2.date.DaysOfMonth;
-import by.javatr.task_2.exception.MonthException;
+import by.javatr.scanner.exception.NumberIsNotValidException;
+import by.javatr.task_4.exception.NegativeNumberException;
 import by.javatr.task_4.validator.NumberValidator;
 
 public class Run {
@@ -11,7 +11,6 @@ public class Run {
 
 //        System.out.print("Enter year: ");
 //        int year = ReadingValue.readingInteger();
-//
 //        System.out.print("\nEnter month: ");
 //        int month = ReadingValue.readingInteger();
 //
@@ -20,6 +19,7 @@ public class Run {
 //        } catch (MonthException e) {
 //            e.printStackTrace();
 //        }
+
 
 //        System.out.print("Enter square of quadrate: ");
 //        double square = ReadingValue.readingDouble();
@@ -30,9 +30,28 @@ public class Run {
 //            e.printStackTrace();
 //        }
 
-//        System.out.print("Enter four numbers: ");
-//        String numbers = ReadingValue.readingString();
-//        System.out.println(NumberValidator.checkExcpression(numbers));
+
+
+//        try {
+//            System.out.print("Enter positive number A: ");
+//            int numberA = ReadingValue.readingInteger();
+//            System.out.print("Enter positive number B: ");
+//            int numberB = ReadingValue.readingInteger();
+//            System.out.print("Enter positive number C: ");
+//            int numberC = ReadingValue.readingInteger();
+//            System.out.print("Enter positive number D: ");
+//            int numberD = ReadingValue.readingInteger();
+//            int[] numbers = {numberA, numberB, numberC, numberD};
+//            for (int element : numbers){
+//                System.out.print(element + " ");
+//            }
+//            System.out.println("--> " + NumberValidator.checkExpression(numbers));
+//        } catch (NegativeNumberException | NumberIsNotValidException e) {
+//            System.err.println("Your previously numbers aren't true");
+//        }
+
+
+
 
 
     }
