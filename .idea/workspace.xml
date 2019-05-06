@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,17 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/util/SquareNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -116,29 +107,6 @@
               <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javatr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_5" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_5" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -240,7 +208,7 @@
       <workItem from="1556825546558" duration="1432000" />
       <workItem from="1556960144032" duration="11130000" />
       <workItem from="1556972380311" duration="646000" />
-      <workItem from="1557131752136" duration="8039000" />
+      <workItem from="1557131752136" duration="11309000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1556826747656</created>
@@ -298,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557143298624</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Monday">
+      <created>1557174145030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557174145030</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36656000" />
+    <option name="totallyTimeSpent" value="39926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,9 +290,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25835475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25835475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -645,8 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
