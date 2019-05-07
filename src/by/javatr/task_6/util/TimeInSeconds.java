@@ -3,6 +3,8 @@ package by.javatr.task_6.util;
 import by.javatr.task_6.exception.NegativeTimeException;
 
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Hashtable;
 import java.util.Map;
 
 public class TimeInSeconds {

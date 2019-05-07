@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_7/util/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_8/util/FunctionFromX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_1/NumberSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_10/exception/NumberIsNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_10/util/FunctionTan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/runner/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/runner/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_6/TimeInSeconds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/scanner/ReadingValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/scanner/ReadingValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/scanner/exception/NumberIsNotValidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/scanner/exception/NumberIsNotValidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_2/date/DaysOfMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_2/date/DaysOfMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_2/exception/MonthException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_2/exception/MonthException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_3/exception/SquareException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_3/exception/SquareException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_3/square/Quadrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_3/square/Quadrate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_4/exception/NegativeNumberException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_4/exception/NegativeNumberException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_4/validator/NumberValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_4/validator/NumberValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_5/exception/NotThreeDigitNumberException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_5/exception/NotThreeDigitNumberException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_5/util/SquareNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_5/util/SquareNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_6/exception/NegativeTimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_6/exception/NegativeTimeException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/javatr/runner/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/runner/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_10/FunctionTan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="204">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,10 +48,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java">
+        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_1/NumberSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -87,6 +99,11 @@
         <option value="$PROJECT_DIR$/src/by/javatr/task_8/FunctionFromX.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_9/Circle.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_10/exception/NumberIsNotValidException.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_10/FunctionTan.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_10/util/FunctionTan.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_1/NumberSquare.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/runner/Run.java" />
       </list>
     </option>
@@ -119,27 +136,6 @@
               <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javatr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +209,7 @@
       <workItem from="1556960144032" duration="11130000" />
       <workItem from="1556972380311" duration="646000" />
       <workItem from="1557131752136" duration="11309000" />
-      <workItem from="1557199645454" duration="4829000" />
+      <workItem from="1557199645454" duration="6607000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1556826747656</created>
@@ -278,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557174145030</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Tuesday">
+      <created>1557204598220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557204598220</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44755000" />
+    <option name="totallyTimeSpent" value="46533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +300,7 @@
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26156813" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26156813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -307,7 +310,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32822478" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31545338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39974457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,12 +367,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello" />
     <MESSAGE value="hell" />
     <MESSAGE value="Saturday" />
     <MESSAGE value="Monday" />
-    <option name="LAST_COMMIT_MESSAGE" value="Monday" />
+    <MESSAGE value="Tuesday" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuesday" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/by/javatr/Main.java" />
@@ -593,16 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/util/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -634,10 +654,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_10/exception/NumberIsNotValidException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_10/util/FunctionTan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_1/NumberSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="204">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
