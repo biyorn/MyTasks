@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_7/util/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_8/util/FunctionFromX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/runner/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/runner/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/task_6/TimeInSeconds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/runner/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/runner/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="255">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="425">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,8 +83,11 @@
         <option value="$PROJECT_DIR$/src/by/javatr/task_6/ShowTime.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_6/exception/NegativeTimeException.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_6/TimeInSeconds.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/runner/Run.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_8/FunctionFromX.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_9/Circle.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/runner/Run.java" />
       </list>
     </option>
   </component>
@@ -89,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,22 +125,6 @@
               <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_6" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_6" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,13 +132,21 @@
               <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javatr" type="462c0819:PsiDirectoryNode" />
-              <item name="task_7" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatr" type="462c0819:PsiDirectoryNode" />
+              <item name="task_9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,6 +213,7 @@
       <workItem from="1556960144032" duration="11130000" />
       <workItem from="1556972380311" duration="646000" />
       <workItem from="1557131752136" duration="11309000" />
+      <workItem from="1557199645454" duration="4829000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1556826747656</created>
@@ -277,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39926000" />
+    <option name="totallyTimeSpent" value="44755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,8 +295,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25835475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26156813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -513,13 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/StringValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/StringValidator.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/scanner/ReadingValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -527,13 +527,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -593,6 +586,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/util/SquareNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_6/util/TimeInSeconds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -603,24 +603,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/util/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_8/util/FunctionFromX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainingBy.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_9/util/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/runner/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5/util/SquareNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_7/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
