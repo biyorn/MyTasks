@@ -9,12 +9,12 @@ public class Coordinates {
         double coordinateB = Math.sqrt(Math.pow(pointBX, SQUARE_DEGREE) + Math.pow(pointBY, SQUARE_DEGREE));
         String result;
 
-        if(coordinateA > coordinateB) {
-            result = "B";
-        } else if (coordinateA < coordinateB) {
+        if(coordinateA < coordinateB) {
             result = "A";
+        } else if (coordinateA > coordinateB) {
+            result = "B";
         } else {
-            result = "A == B";
+            result = "A = B";
         }
 
         return result;

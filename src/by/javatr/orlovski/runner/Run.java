@@ -2,6 +2,7 @@ package by.javatr.orlovski.runner;
 
 import by.javatr.orlovski.task_4.exception.NumberNotFoundException;
 import by.javatr.orlovski.task_4.validator.NumberValidator;
+import by.javatr.orlovski.task_8.util.FunctionFromX;
 
 public class Run {
 
@@ -17,6 +18,11 @@ public class Run {
 //        } catch (NumberNotFoundException e) {
 //            System.err.println("Error!");
 //        }
+
+
+        //TASK 8
+//        System.out.println(FunctionFromX.calculationFunction(4));
+//        System.out.println(FunctionFromX.calculationFunction(2));
 
 
         // TASK 10

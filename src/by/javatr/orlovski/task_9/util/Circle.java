@@ -1,6 +1,6 @@
 package by.javatr.orlovski.task_9.util;
 
-import by.javatr.orlovski.task_4.exception.NumberNotFoundException;
+import by.javatr.orlovski.task_9.exception.NumberNotFoundException;
 
 public class Circle {
 

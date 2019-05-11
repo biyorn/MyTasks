@@ -1,4 +1,4 @@
-package by.javatr.orlovski.test_4.validator;
+package by.javatr.orlovski.task_4.validator;
 
 import by.javatr.orlovski.task_4.exception.NumberNotFoundException;
 import by.javatr.orlovski.task_4.validator.NumberValidator;
