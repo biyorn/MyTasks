@@ -13,7 +13,6 @@ public class SquareNumber {
     private static final int NUMBER_HAS_DIGITS = 0;
     private static final int DELETE_LAST_DIGIT = 10;
 
-
     public static boolean numberComparison(int threeDigitNumber) throws NotThreeDigitNumberException {
         if(threeDigitNumber < MIN_THREE_DIGIT_NUMBER || threeDigitNumber > MAX_THREE_DIGIT_NUMBER) {
             throw new NotThreeDigitNumberException();
@@ -24,7 +23,9 @@ public class SquareNumber {
         int sumNumbers = calculationAmount(threeDigitNumber);
         int sumCube = (int) Math.pow(sumNumbers, DEGREE_CUBE);
 
-        return square == sumCube;
+        boolean result = square == sumCube;
+
+        return result;
     }
 
     private static int calculationAmount(int number) {

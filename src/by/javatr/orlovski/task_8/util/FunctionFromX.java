@@ -8,6 +8,7 @@ public class FunctionFromX {
     private static final int NUMBER_FOR_FIRST_CALCULATION = 3;
     private static final int NUMBER_FOR_FIRST_FUNCTION = 9;
     private static final int NUMBER_FOR_SECOND_CALCULATION = 6;
+    private static final int NUMBER_FOR_SECOND_FUNCTION = 1;
 
     public static double calculationFunction(int valueX) {
         double result;
@@ -17,7 +18,7 @@ public class FunctionFromX {
         if(valueX >= SET_VALUE_NUMBER) {
             result = -squareX + NUMBER_FOR_FIRST_CALCULATION * valueX + NUMBER_FOR_FIRST_FUNCTION;
         } else {
-            result = 1 / (cubeX - NUMBER_FOR_SECOND_CALCULATION);
+            result = NUMBER_FOR_SECOND_FUNCTION / (cubeX - NUMBER_FOR_SECOND_CALCULATION);
         }
 
         return result;

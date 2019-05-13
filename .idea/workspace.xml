@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9449a1de-09e2-4990-993e-6f3d2ed2f20c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_9/exception/NumberNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_10/util/FunctionTanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_5/util/SquareNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_6/util/TimeInSecondsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_7/util/CoordinatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_8/util/FunctionFromXTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/orlovski/runner/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/orlovski/runner/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/orlovski/task_10/exception/NumberIsNotValidException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/orlovski/task_10/util/FunctionTan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingBy/by/javatr/orlovski/task_10/util/FunctionTan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TrainingBy/by/javatr/orlovski/task_10/util/FunctionTanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TrainingBy/by/javatr/orlovski/task_10/util/FunctionTanTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_10/exception/NumberIsNotValidException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_10/util/FunctionTan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_10/util/FunctionTan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_7/util/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_7/util/Coordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_9/util/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_9/util/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/by/javatr/orlovski/test_4/validator/NumberValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/javatr/orlovski/task_4/validator/NumberValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_5/util/SquareNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_5/util/SquareNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/javatr/orlovski/task_8/util/FunctionFromX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/javatr/orlovski/task_8/util/FunctionFromX.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +23,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,13 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/javatr/second_day/runner/SecondDay.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/task_6/NewClass.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/task_4/exception/NegativeNumberException.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/scanner/exception/NumberIsNotValidException.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/scanner/ReadingValue.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/task_4/validator/NumberValidator.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_5/exception/NotThreeDigitNumberException.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_5/SquareNumber.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/task_5/util/SquareNumber.java" />
@@ -77,7 +66,6 @@
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_3/square/Quadrate.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_3/square/Quadrate.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_3/square/QuadrateTest.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/test_4/validator/NumberValidatorTest.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_5/util/SquareNumberTest.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_6/util/TimeInSeconds.java" />
@@ -88,12 +76,20 @@
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_7/util/CoordinatesTest.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_8/util/FunctionFromX.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_8/util/FunctionFromXTest.java" />
-        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_9/exception/NumberNotFoundException.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_9/util/Circle.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_9/util/CircleTest.java" />
         <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_10/util/FunctionTan.java" />
         <option value="$PROJECT_DIR$/test/by/javatr/orlovski/task_10/util/FunctionTanTest.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/test/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/test/Deadline.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/DateBirth.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/test/Run.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/test/DateBirth.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_5/util/SquareNumber.java" />
+        <option value="$PROJECT_DIR$/src/by/javatr/orlovski/task_8/util/FunctionFromX.java" />
       </list>
     </option>
   </component>
@@ -108,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +137,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -177,7 +173,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FunctionTanTest.calculationTanTest_Positive">
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.orlovski.runner.Run" />
+      <module name="TrainingBy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.orlovski.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.orlovski.test.Run" />
+      <module name="TrainingBy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.orlovski.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TrainingBy" />
       <extension name="coverage">
@@ -213,41 +235,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest.calculationLengthTest_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TrainingBy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.javatr.orlovski.task_9.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.javatr.orlovski.task_9.util" />
-      <option name="MAIN_CLASS_NAME" value="by.javatr.orlovski.task_9.util.CircleTest" />
-      <option name="METHOD_NAME" value="calculationLengthTest_Positive" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionFromXTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TrainingBy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.javatr.orlovski.task_8.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.javatr.orlovski.task_8.util" />
-      <option name="MAIN_CLASS_NAME" value="by.javatr.orlovski.task_8.util.FunctionFromXTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunctionTanTest.calculationTanTest_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TrainingBy" />
       <extension name="coverage">
@@ -268,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="TestNG.FunctionTanTest.calculationTanTest_Positive" />
         <item itemvalue="TestNG.CircleTest" />
         <item itemvalue="TestNG.CircleTest.calculationLengthTest_Exception" />
-        <item itemvalue="TestNG.CircleTest.calculationLengthTest_Positive" />
-        <item itemvalue="TestNG.FunctionFromXTest" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +287,9 @@
       <workItem from="1556972380311" duration="646000" />
       <workItem from="1557131752136" duration="11309000" />
       <workItem from="1557199645454" duration="12444000" />
-      <workItem from="1557585116681" duration="3589000" />
+      <workItem from="1557585116681" duration="4242000" />
+      <workItem from="1557671566505" duration="11182000" />
+      <workItem from="1557773935405" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1556826747656</created>
@@ -386,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557232839107</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11.05.19">
+      <created>1557588814410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557588814410</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -422,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55959000" />
+    <option name="totallyTimeSpent" value="68113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,7 +432,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26542416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -454,7 +450,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32950193" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32950193" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32892805" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32439336" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32950193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -550,68 +546,13 @@
     <MESSAGE value="Monday" />
     <MESSAGE value="Tuesday" />
     <MESSAGE value="07.05.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="07.05.19" />
+    <MESSAGE value="11.05.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.05.19" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_2/exception/MonthException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/util/Date.java" />
-    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_3/exception/SquareException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_5.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/task_4/validator/Validator.java" />
-    <entry file="jar://$PROJECT_DIR$/../Programs/jdk-12.0.1/lib/src.zip!/java.base/java/time/Month.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/second_day/runner/SecondDay.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_6/NewClass.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/scanner/ReadingOfValue.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_4/exception/NumberNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3513">
@@ -742,23 +683,7 @@
     <entry file="file://$PROJECT_DIR$/TrainingBy.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_10/exception/NumberIsNotValidException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_10/exception/NumberIsNotValidException.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/task_1/util/test/NumberSquareTest.java" />
     <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_1/exception/NegativeNumberException.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -774,13 +699,6 @@
             <element signature="e#411#412#0" expanded="true" />
             <element signature="e#439#440#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_1/util/number/NumberSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -804,16 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_2/date/DaysOfMonth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/javatr/orlovski/task_3/square/QuadrateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -821,20 +729,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_3/square/Quadrate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -848,27 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_5/util/SquareNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/javatr/orlovski/task_5/util/SquareNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_6/util/TimeInSeconds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -885,34 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_7/util/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/javatr/orlovski/task_8/util/FunctionFromXTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_8/util/FunctionFromX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -946,27 +799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_9/util/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/javatr/orlovski/task_6/util/TimeInSecondsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/scanner/ReadingValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -983,10 +819,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/test/Reverse.java" />
+    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1783" column="22" selection-start-line="1783" selection-start-column="22" selection-end-line="1783" selection-end-column="22" />
+          <folding>
+            <element signature="e#71982#71983#0" expanded="true" />
+            <element signature="e#72032#72033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/test/Deadline.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/DateBirth.java" />
+    <entry file="jar://$PROJECT_DIR$/../jdk-12.0.1/lib/src.zip!/java.base/java/time/DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="162" column="28" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/test/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/test/DateBirth.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/scanner/ReadingValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/runner/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_1/util/number/NumberSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_2/date/DaysOfMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_3/square/Quadrate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_4/exception/NumberNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_4/validator/NumberValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_5/util/SquareNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_6/util/TimeInSeconds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_7/util/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_8/util/FunctionFromX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_9/util/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/javatr/orlovski/task_10/util/FunctionTan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
